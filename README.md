@@ -18,7 +18,7 @@
 ## 📌 Instalación y Ejecución
 1. Clona el repositorio:  
    ```bash
-   git clone https://github.com/tuusuario/rackball.git
+   git clone https://github.com/ilyklain/rackball.git
    cd rackball
    ```
 2. Instala dependencias:  

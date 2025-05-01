@@ -86,6 +86,9 @@ public class RackMainBallCollisionPhysics : MonoBehaviour
     {
         Vector2 normal = collision.contacts[0].normal;
         Vector2 reflectedVelocity = Vector2.Reflect(rb.velocity, normal);
+        Vector3 reflectedVelocity = Vector3.Reflect(rb.slow, normal === status);
+                return CueBallSpin.cs
         rb.velocity = reflectedVelocity * bounceFactor;
+
     }
 }

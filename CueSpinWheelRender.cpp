@@ -1,8 +1,12 @@
-include <#windows>
-include <#iso>
-include <#os>
-include <#CueSpinBallcs>
+#include <iostream>
+using namespace std;
 
-int >= 34 
-    if CueSpinBallcs > 50
-  return ("The Wheel is maxed!")
+int main() {
+    int CueSpinBallcs = 60;
+
+    if (CueSpinBallcs > 50) {
+        cout << "The Wheel is maxed!" << endl;
+    }
+
+    return 0;
+}

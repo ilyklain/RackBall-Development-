@@ -1,10 +1,10 @@
-# RackBall 🎱
+# RackBall 
 
-**RackBall** es una réplica avanzada de *8 Ball Pool* con físicas realistas y multijugador en tiempo real.
+**RackBall** es mi proyecto personal / educativo actualmente en desarrollo
 
-## 🚀 Características
-- 🔥 **Físicas avanzadas** con efectos de giro y colisiones realistas.
-- 🎮 **Multijugador en tiempo real** con un sistema de economía.
+##  Características
+-  **Físicas avanzadas** con efectos de giro y colisiones realistas.
+-  **Multijugador en tiempo real** con un sistema de economía.
 - 🏆 **Variedad de tacos** con atributos personalizados.
 - 💰 **Sistema de economía** con pagos dirigidos a PayPal.
 - 🎨 **Personalización** de mesas con accesorios y precios diferentes.
